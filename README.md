@@ -26,3 +26,7 @@ tail
 ```telegram
 /tail recepies 5
 ```
+
+## Команда проекта
+* Приймак Евгений, email: prijmak.ed@edu.spbstu.ru
+* Костина Надежда, email: kostina.nh@edu.spbstu.ru
